@@ -1,7 +1,7 @@
 import { Home, Search, Library } from 'lucide-react'
 
 
-export const Navbar = () => {
+export function Navbar() {
     return(
         <div className="flex flex-col gap-4 space-y-2 mt-6">
             <a href="" className="flex gap-5 text-sm font-semibold text-zinc-400 hover:text-stone-100">

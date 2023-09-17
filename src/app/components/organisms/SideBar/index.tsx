@@ -1,4 +1,4 @@
-import { Navbar } from "../../atoms/Navbar/Navbar"
+import { Navbar } from "../../atoms/Navbar"
 import { Options } from "../../atoms/Options/Options"
 import { Playlists } from "../../molecules/Playlists"
 
