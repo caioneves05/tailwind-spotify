@@ -37,11 +37,6 @@ export const playlistsMock: Playlist[] = [
       type: 'Playlist'
     },
     {
-      name: "Essa é a Vida de um Corredor",
-      avatar: "https://t2.genius.com/unsafe/300x0/https%3A%2F%2Fimages.genius.com%2F386f8429e87c516a5c1b9fe4c44d6855.1000x1000x1.jpg",
-      type: 'Playlist'
-    },
-    {
       name: "Dos Prédios",
       avatar: "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F63daa019698975c54c814ddd5070a21a.1000x1000x1.jpg",
       type: 'Playlist'
