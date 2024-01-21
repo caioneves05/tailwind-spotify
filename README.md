@@ -1,10 +1,18 @@
 # 🎧🟢 Tailwind Spotify
 
 
-Explorando o comportamento e a flexibilidade ao utilizar o Tailwind CSS, em conjunto com a poderosa integração do Typescript.
+Exploring the behavior and flexibility of using Tailwind CSS, along with powerful Typescript integration.
 
-Este projeto visa exclusivamente o estudo e aprimoramento de conceitos no desenvolvimento front-end, seguindo como referência o modelo do Spotify Desktop.
-É relevante destacar que este projeto é um exemplo de baixa fidelidade, contendo apenas elementos estáticos e desprovido de funcionalidades, servindo apenas como um exercício de estilização.
+This project aims exclusively at studying and improving concepts in front-end development, using the Spotify Desktop model as a reference.
+It is important to highlight that this project is an example of low fidelity, containing only static elements and devoid of functionality, serving only as a stylization exercise.
 
+If you want to run it on your machine:
+
+### Install dependencies
+`pmpn i` or `npm i`
+
+### Run project
+
+`npm run dev`
 
 ![teça](./src/app/assets/spotify-print.png)
